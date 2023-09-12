@@ -5,7 +5,7 @@ function App(): JSX.Element {
     return (
         <div className="App">
             <header className="App-header">
-                UM COS420 with React Hooks and TypeScript Hello World
+                UM COS420 with React Hooks and TypeScript HELLO WORLD
             </header>
             <p>
                 Edit <code>src/App.tsx</code> and save. This page will

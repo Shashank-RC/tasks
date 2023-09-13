@@ -8,7 +8,7 @@ function App(): JSX.Element {
     return (
         <div className="App">
             <header className="App-header">
-                yUM COS420 with React Hooks and TypeScript HELLO WORLD
+                UM COS420 with React Hooks and TypeScript Hello World
             </header>
             <span style={{ color: "red" }}>
                 <h1>This is header text</h1>;
@@ -18,8 +18,8 @@ function App(): JSX.Element {
                     <Col>
                         <div
                             style={{
-                                height: "50",
-                                width: "30",
+                                height: "50px",
+                                width: "30px",
                                 backgroundColor: "red"
                             }}
                         >
@@ -29,8 +29,8 @@ function App(): JSX.Element {
                     <Col>
                         <div
                             style={{
-                                height: "50",
-                                width: "30",
+                                height: "50px",
+                                width: "30px",
                                 backgroundColor: "red"
                             }}
                         >

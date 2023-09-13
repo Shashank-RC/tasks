@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import img from "./Images/image.jpg";
+import img from "./images/image.jpg";
 
 import { Row, Col, Button, Container } from "react-bootstrap";
 

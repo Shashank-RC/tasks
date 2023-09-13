@@ -19,23 +19,19 @@ function App(): JSX.Element {
                         <div
                             style={{
                                 height: "50px",
-                                width: "30px",
+                                width: "300px",
                                 backgroundColor: "red"
                             }}
-                        >
-                            First column
-                        </div>
+                        ></div>
                     </Col>
                     <Col>
                         <div
                             style={{
                                 height: "50px",
-                                width: "30px",
+                                width: "300px",
                                 backgroundColor: "red"
                             }}
-                        >
-                            Second Column
-                        </div>
+                        ></div>
                     </Col>
                 </Row>
             </Container>

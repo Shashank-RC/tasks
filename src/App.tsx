@@ -18,24 +18,20 @@ function App(): JSX.Element {
                     <Col>
                         <div
                             style={{
-                                height: "50",
-                                width: "30",
+                                height: "50px",
+                                width: "300px",
                                 backgroundColor: "red"
                             }}
-                        >
-                            First column
-                        </div>
+                        ></div>
                     </Col>
                     <Col>
                         <div
                             style={{
-                                height: "50",
-                                width: "30",
+                                height: "50px",
+                                width: "300px",
                                 backgroundColor: "red"
                             }}
-                        >
-                            Second Column
-                        </div>
+                        ></div>
                     </Col>
                 </Row>
             </Container>

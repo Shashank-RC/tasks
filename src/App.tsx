@@ -8,7 +8,11 @@ function App(): JSX.Element {
     return (
         <div className="App">
             <header className="App-header">
+<<<<<<< HEAD
                 UM COS420 with React Hooks and TypeScript Hello World
+=======
+                UM COS420 with React Hooks and TypeScript
+>>>>>>> upstream/task-arrays
             </header>
             <span style={{ color: "red" }}>
                 <h1>This is header text</h1>;

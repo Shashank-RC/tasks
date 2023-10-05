@@ -32,6 +32,7 @@ export function TwoDice(): JSX.Element {
             </div>
             <Button onClick={rollLeftDie}>Roll Left</Button>
             <Button onClick={rollRightDie}>Roll Right</Button>
+            // eslint-disable-next-line no-extra-parens
             {leftDie === rightDie ? (
                 leftDie === 1 ? (
                     <div>You Lose</div>

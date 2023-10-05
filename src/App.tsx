@@ -1,17 +1,11 @@
 import React from "react";
 import "./App.css";
-<<<<<<< HEAD
-import img from "./Images/image.jpg";
-
-import { Row, Col, Button, Container } from "react-bootstrap";
-=======
 import { ChangeType } from "./components/ChangeType";
 import { RevealAnswer } from "./components/RevealAnswer";
 import { StartAttempt } from "./components/StartAttempt";
 import { TwoDice } from "./components/TwoDice";
 import { CycleHoliday } from "./components/CycleHoliday";
 import { Counter } from "./components/Counter";
->>>>>>> upstream/task-state
 
 function App(): JSX.Element {
     return (

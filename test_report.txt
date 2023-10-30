@@ -10,45 +10,406 @@ PASS src/arrays.test.ts
 PASS src/objects.test.ts
 PASS src/components/StartAttempt.test.tsx
 PASS src/components/TwoDice.test.tsx
+PASS src/form-components/MultipleChoiceQuestion.test.tsx
 PASS src/bad-components/ChooseTeam.test.tsx
 PASS src/bad-components/DoubleHalf.test.tsx
 PASS src/functions.test.ts
+PASS src/form-components/CheckAnswer.test.tsx
+PASS src/form-components/EditMode.test.tsx
+  ● Console
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
+    console.error
+      Warning: `controlId` is ignored on `<FormControl>` when `id` is specified.
+
+      at printWarning (node_modules/warning/warning.js:34:15)
+      at warning (node_modules/warning/warning.js:57:20)
+      at node_modules/react-bootstrap/cjs/FormControl.js:58:64
+      at renderWithHooks (node_modules/react-dom/cjs/react-dom.development.js:14985:18)
+      at updateForwardRef (node_modules/react-dom/cjs/react-dom.development.js:17044:20)
+      at beginWork (node_modules/react-dom/cjs/react-dom.development.js:19098:16)
+      at beginWork$1 (node_modules/react-dom/cjs/react-dom.development.js:23940:14)
+      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22779:12)
+
 PASS src/components/ChangeType.test.tsx
 PASS src/components/CycleHoliday.test.tsx
+PASS src/form-components/GiveAttempts.test.tsx
+PASS src/form-components/ChangeColor.test.tsx
 PASS src/components/Counter.test.tsx
 PASS src/components/RevealAnswer.test.tsx
 PASS src/bad-components/ColoredBox.test.tsx
 PASS src/bad-components/ShoveBox.test.tsx
 PASS src/App.test.tsx
---------------------|---------|----------|---------|---------|-------------------
-File                | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
---------------------|---------|----------|---------|---------|-------------------
-All files           |   99.53 |    97.14 |     100 |   99.49 |                   
- src                |   99.33 |    98.21 |     100 |   99.27 |                   
-  App.tsx           |     100 |      100 |     100 |     100 |                   
-  arrays.ts         |     100 |      100 |     100 |     100 |                   
-  functions.ts      |     100 |      100 |     100 |     100 |                   
-  nested.ts         |     100 |      100 |     100 |     100 |                   
-  objects.ts        |   96.29 |    83.33 |     100 |   96.29 | 52                
- src/bad-components |     100 |       50 |     100 |     100 |                   
-  ChooseTeam.tsx    |     100 |       50 |     100 |     100 | 17                
-  ColoredBox.tsx    |     100 |      100 |     100 |     100 |                   
-  DoubleHalf.tsx    |     100 |      100 |     100 |     100 |                   
-  ShoveBox.tsx      |     100 |      100 |     100 |     100 |                   
- src/components     |     100 |      100 |     100 |     100 |                   
-  ChangeType.tsx    |     100 |      100 |     100 |     100 |                   
-  Counter.tsx       |     100 |      100 |     100 |     100 |                   
-  CycleHoliday.tsx  |     100 |      100 |     100 |     100 |                   
-  RevealAnswer.tsx  |     100 |      100 |     100 |     100 |                   
-  StartAttempt.tsx  |     100 |      100 |     100 |     100 |                   
-  TwoDice.tsx       |     100 |      100 |     100 |     100 |                   
- src/interfaces     |       0 |        0 |       0 |       0 |                   
-  answer.ts         |       0 |        0 |       0 |       0 |                   
-  question.ts       |       0 |        0 |       0 |       0 |                   
---------------------|---------|----------|---------|---------|-------------------
+-----------------------------|---------|----------|---------|---------|-------------------
+File                         | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
+-----------------------------|---------|----------|---------|---------|-------------------
+All files                    |   99.58 |    97.56 |     100 |   99.55 |                   
+ src                         |   99.33 |    98.21 |     100 |   99.27 |                   
+  App.tsx                    |     100 |      100 |     100 |     100 |                   
+  arrays.ts                  |     100 |      100 |     100 |     100 |                   
+  functions.ts               |     100 |      100 |     100 |     100 |                   
+  nested.ts                  |     100 |      100 |     100 |     100 |                   
+  objects.ts                 |   96.29 |    83.33 |     100 |   96.29 | 52                
+ src/bad-components          |     100 |       50 |     100 |     100 |                   
+  ChooseTeam.tsx             |     100 |       50 |     100 |     100 | 17                
+  ColoredBox.tsx             |     100 |      100 |     100 |     100 |                   
+  DoubleHalf.tsx             |     100 |      100 |     100 |     100 |                   
+  ShoveBox.tsx               |     100 |      100 |     100 |     100 |                   
+ src/components              |     100 |      100 |     100 |     100 |                   
+  ChangeType.tsx             |     100 |      100 |     100 |     100 |                   
+  Counter.tsx                |     100 |      100 |     100 |     100 |                   
+  CycleHoliday.tsx           |     100 |      100 |     100 |     100 |                   
+  RevealAnswer.tsx           |     100 |      100 |     100 |     100 |                   
+  StartAttempt.tsx           |     100 |      100 |     100 |     100 |                   
+  TwoDice.tsx                |     100 |      100 |     100 |     100 |                   
+ src/form-components         |     100 |      100 |     100 |     100 |                   
+  ChangeColor.tsx            |     100 |      100 |     100 |     100 |                   
+  CheckAnswer.tsx            |     100 |      100 |     100 |     100 |                   
+  EditMode.tsx               |     100 |      100 |     100 |     100 |                   
+  GiveAttempts.tsx           |     100 |      100 |     100 |     100 |                   
+  MultipleChoiceQuestion.tsx |     100 |      100 |     100 |     100 |                   
+ src/interfaces              |       0 |        0 |       0 |       0 |                   
+  answer.ts                  |       0 |        0 |       0 |       0 |                   
+  question.ts                |       0 |        0 |       0 |       0 |                   
+-----------------------------|---------|----------|---------|---------|-------------------
 
-Test Suites: 15 passed, 15 total
-Tests:       110 passed, 110 total
+Test Suites: 20 passed, 20 total
+Tests:       134 passed, 134 total
 Snapshots:   0 total
-Time:        9.567 s
+Time:        12.647 s
 Ran all test suites.
